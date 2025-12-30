@@ -1,4 +1,4 @@
-module github.com/project-flogo/core
+module github.com/abhide-tibco/core
 
 go 1.25.3
 
